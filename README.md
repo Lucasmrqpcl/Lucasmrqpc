@@ -35,6 +35,8 @@
 </section>
 
 <section align="center">
-  <h3>📫 Vamos nos conectar?</h3>
-  <a href="COLE_O_LINK_DO_SEU_LINKEDIN_AQUI"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <h3>📫Linkedin</h3>
+  <a href="https://www.linkedin.com/in/lucas-marques-794339251/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </section>
