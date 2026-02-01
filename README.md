@@ -1,7 +1,7 @@
 <section align="center">
   <h1>Lucas Marques</h1>
 
-  <img src="[LINK_DA_SUA_IMAGEM]" alt="Banner Programador" width="100%">
+  <img src="https://imgur.com/a/oF1U45e" alt="Banner Programador" width="100%">
 </section>
 
 <section align="center">
