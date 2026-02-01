@@ -1,8 +1,9 @@
 <section align="center">
   <h1>Lucas Marques</h1>
 
-  <img src="https://imgur.com/a/oF1U45e" alt="Banner Programador" width="100%">
+ <img src="https://i.imgur.com/vH0Hj3D.png" alt="Banner Lucas Marques" width="100%">
 </section>
+
 
 <section align="center">
   <h3>Desenvolvedor Full Stack | Estudante SENAI<h3>
