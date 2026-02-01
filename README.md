@@ -1,14 +1,12 @@
 <section align="center">
   <h1>Lucas Marques</h1>
-
-<img src="https://raw.githubusercontent.com/LucasMarques/LucasMarques/main/banner.png" alt="Banner Lucas Marques" width="100%" onerror="this.src='https://i.imgur.com/vH0Hj3D.png'">
+  <img src="bac.jpg" alt="Banner Lucas Marques" width="100%">
 </section>
 
-
 <section align="center">
-  <h3>Desenvolvedor Full Stack | Estudante SENAI<h3>
+  <h3>🚀 Desenvolvedor Full Stack | Especialista em Dados | Estudante SENAI</h3>
     
-  [![My Skills](https://skillicons.dev/icons?i=py,js,cs,mysql,github,vscode,linux)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=py,js,cs,mysql,postgres,mongodb,sqlite,kali,linux,github,vscode)](https://skillicons.dev)
 
   <hr>
 </section>
@@ -16,21 +14,21 @@
 <section>
   <h3>Sobre mim:</h3>
   <p>
-    Estudante de Desenvolvimento de Sistemas no SENAI, focado em criar soluções eficientes tanto no Back-end quanto no Front-end. 
-    Tenho forte interesse em Banco de Dados e infraestrutura, aplicando projetos práticos que unem tecnologia e análise científica.
+Técnico em Desenvolvimento de Sistemas pelo SENAI, especializado na criação de ecossistemas Full Stack integrados à Inteligência de Dados. Minha atuação foca na arquitetura de bancos de dados robustos e infraestruturas escaláveis, transformando volumes de dados brutos em insights estratégicos. Além do desenvolvimento, priorizo a Segurança e Governança de Dados, garantindo a integridade e a proteção das informações em todo o ciclo de vida da aplicação através de práticas de análise científica e defesa cibernética.
   </p>
   <hr>
 </section>
 
 <section>
-  <h3>Minha Stack:</h3>
+  <h3>Minha Stack de Dados & Dev:</h3>
 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+  <img src="https://img.shields.io/badge/Cyber_Security-E20000?style=for-the-badge&logo=fortinet&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
 
   <hr>
 </section>
