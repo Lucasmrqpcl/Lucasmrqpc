@@ -14,9 +14,11 @@
 <section>
   <h3>Sobre mim:</h3>
   <p>
-    Técnico em Desenvolvimento de Sistemas pelo <b>SENAI</b>, focado em criar soluções eficientes que unem o desenvolvimento Full Stack à <b>inteligência de dados</b>. 
-    Tenho sólida base em arquitetura de bancos de dados e infraestrutura, aplicando projetos práticos que transformam dados brutos em insights através de tecnologia e análise científica. 
-    Além disso, possuo forte foco em <b>Segurança de Dados</b>, garantindo a integridade, proteção e governança das informações em todo o ciclo de desenvolvimento.
+  Técnico em Desenvolvimento de Sistemas pelo SENAI e atualmente graduando em Ciência da Computação pela UFBRA. Meu foco é criar soluções eficientes que unem o desenvolvimento Full Stack à inteligência de dados.
+
+Tenho uma sólida base em arquitetura de bancos de dados e infraestrutura, aplicando projetos práticos que transformam dados brutos em insights através de tecnologia e análise científica. Além disso, possuo forte foco em Segurança de Dados, garantindo a integridade, proteção e governança das informações em todo o ciclo de desenvolvimento.
+
+Busco constantemente integrar o rigor acadêmico da Ciência da Computação com a agilidade técnica do mercado, visando construir sistemas seguros, escaláveis e inteligentes.
   </p>
   <hr>
 </section>
